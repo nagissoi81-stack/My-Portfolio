@@ -32,7 +32,7 @@
 Welcome to the official repository for my personal portfolio: [nagialshaikh-tech.com](https://nagialshaikh-tech.com)
 
 ## 👤 About Me
-I am **Nagi Alshaikh**,a Software Engineering and professional. I operate as a **Full-Stack Web Developer specializing in Secure Solutions**, bridging the gap between innovative programming, creative design, and rigorous technical security.
+I am **Nagi Alshaikh**, a Software Engineer and professional. I operate as a **Full-Stack Web Developer specializing in Secure Solutions**, bridging the gap between innovative programming, creative design, and rigorous technical security.
 
 ## 🛡️ Brand Identity: **SecuerCode**
 Through my brand **SecuerCode**, I deliver software solutions that integrate aesthetics with high-level protection:
